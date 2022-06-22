@@ -1,0 +1,16 @@
+.toolbar_icon {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.toolbar_title {
+  margin-left: 20px;
+}
+
+.toolbar_button {
+  color: white;
+}
+
+.app_menu {
+  background-color: brown;
+}
